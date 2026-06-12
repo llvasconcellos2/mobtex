@@ -793,7 +793,7 @@ INSERT INTO `jos_modules` (`id`, `title`, `content`, `ordering`, `position`, `ch
 (31, 'Wrapper', '', 14, 'left', 0, '0000-00-00 00:00:00', 0, 'mod_wrapper', 0, 0, 1, '', 0, 0),
 (32, 'Logado', '', 0, 'cpanel', 0, '0000-00-00 00:00:00', 1, 'mod_logged', 0, 99, 1, '', 0, 1),
 (33, 'SBD Accordion Menu', '', 3, 'left', 0, '0000-00-00 00:00:00', 1, 'mod_sbd_rollmenu', 0, 0, 0, 'class_sfx=\nmoduleclass_sfx=\nmenulevel_sfx=0\nlevel_sfx=1\nparentlevel=1\nattemptvalidation=0\njoomlaver=1\nhidemenunoscript=0\nnoscriptmsg=Menu Requires Javascript\nmenutype=mainmenu\ncache=0\ntime_delay=1500\nmenu_delay=10\nfull_active_id=0\nuse_mouseover=1\ntop_linkclick=1\nnoextramenu=1\nopenparentmenu=1\nopensinglemenu=1\nusecompressedjs=1', 0, 0),
-(36, 'Rodapé', '2008 MOBTEX | Tel. (55) 47 3435-2803 | mobtex@mobtex.com.br | Dona Francisca, 9215, CEP 89239-270 - Joinville - SC - BR\r\n', 1, 'footer', 0, '0000-00-00 00:00:00', 1, '', 0, 0, 0, 'moduleclass_sfx=\ncache=0\nfirebots=1\nrssurl=\nrsstitle=1\nrssdesc=1\nrssimage=1\nrssitems=3\nrssitemdesc=1\nword_count=0\nrsscache=3600', 0, 0);
+(36, 'Rodapé', '2008 MOBTEX | Tel. (55) 47 3435-2803 | mobtex@mobtex.com.br | Dona Francisca, 9215, CEP 89239-270 - Joinville - SC - BR | <span class="creditos">Desenvolvido por <a href="https://leonardo-vasconcellos.vercel.app">Leonardo LV</a>\r\n', 1, 'footer', 0, '0000-00-00 00:00:00', 1, '', 0, 0, 0, 'moduleclass_sfx=\ncache=0\nfirebots=1\nrssurl=\nrsstitle=1\nrssdesc=1\nrssimage=1\nrssitems=3\nrssitemdesc=1\nword_count=0\nrsscache=3600', 0, 0);
 
 -- --------------------------------------------------------
 
