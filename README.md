@@ -61,9 +61,12 @@ Mobtex is a Joinville, Santa Catarina-based manufacturer of high-performance tec
 
 The website was built in 2008 on Joomla! 1.0 with a fully bespoke theme. The design brief came from agency Inventiva; the front-end implementation, template development, and CMS setup were done entirely by Leonardo Vasconcellos. The dark, high-contrast visual language mirrors the industrial seriousness of a B2B supplier, while each product line received its own accent color (orange, teal, pink) to orient buyers on first glance. The Joomla CMS layer gave Mobtex's team full editorial control over product descriptions and company news without developer involvement — a significant operational benefit for a small manufacturer in 2008.
 
-- Designed and built a fully custom Joomla 1.0 template from a design agency brief, translating Mobtex's "Liberdade para Criar" brand identity into a dark, industrial-grade web presence that stood out in the 2008 B2B market
-- Structured three color-coded product lines (Fitness, Shoes, Diverse) as distinct catalogue sections with contextual product photography, giving buyers an immediate visual path to the right material category without sales friction
-- Integrated a YUI 2.0-powered animated accordion navigation menu that kept the sidebar compact and navigable within the browser constraints of the era, reducing load time and improving usability on period hardware
+<!-- KEY FEATURES -->
+### Key Features
+
+- **Custom brand-driven template** — a fully custom template built from a design agency brief, translating Mobtex's "Liberdade para Criar" brand identity into a dark, industrial-grade web presence that stood out in the 2008 B2B market
+- **Color-coded product lines** — three catalogue sections (Fitness, Shoes, Diverse) with contextual product photography, giving buyers an immediate visual path to the right material category without sales friction
+- **Compact animated navigation** — an animated accordion menu that kept the sidebar compact and navigable within the browser constraints of the era, reducing load time and improving usability on period hardware
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
